@@ -3,6 +3,8 @@
 
 计算机图形学第二次大作业
 画出了一个可以旋转的棒棒
+https://github.com/cww97/DrawSticks
+
 代码在main.cpp里面
 1.dat是数据，里面是点
 2.txt是数据，里面是三角形和四边形，点的编号
