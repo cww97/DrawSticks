@@ -9,6 +9,8 @@
 不知道怎么回事，数据放在项目目录下无法读入文件
 于是扔进bin/debug里面，用cdoeblocks F9编译后
 直接双击生成的DrawSticks.exe便有效果了
+image1.png
+image2.png是运行效果截图
 
 环境：codeblocks16.01(装GLUT插件)
 windows 10 64位
